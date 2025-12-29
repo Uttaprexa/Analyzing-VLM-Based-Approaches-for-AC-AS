@@ -1,7 +1,6 @@
 # Analyzing VLM-Based Approaches for Anomaly Classification and Segmentation
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](link-to-your-paper)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-green.svg)](https://www.python.org/)
 
 > A comprehensive comparative study of WinCLIP and AnomalyCLIP for zero-shot industrial anomaly detection
